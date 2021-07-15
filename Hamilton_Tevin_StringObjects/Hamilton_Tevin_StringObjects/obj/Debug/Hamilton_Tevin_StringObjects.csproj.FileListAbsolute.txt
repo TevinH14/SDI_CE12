@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\Documents\New_SDI_projects\Hamilton_Tevin_StringObjects\Hamilton_Tevin_StringObjects\obj\Debug\Hamilton_Tevin_StringObjects.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\New_SDI_projects\Hamilton_Tevin_StringObjects\Hamilton_Tevin_StringObjects\obj\Debug\Hamilton_Tevin_StringObjects.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\New_SDI_projects\Hamilton_Tevin_StringObjects\Hamilton_Tevin_StringObjects\bin\Debug\Hamilton_Tevin_StringObjects.exe.config
+\\vmware-host\Shared Folders\Documents\New_SDI_projects\Hamilton_Tevin_StringObjects\Hamilton_Tevin_StringObjects\bin\Debug\Hamilton_Tevin_StringObjects.exe
+\\vmware-host\Shared Folders\Documents\New_SDI_projects\Hamilton_Tevin_StringObjects\Hamilton_Tevin_StringObjects\bin\Debug\Hamilton_Tevin_StringObjects.pdb
+\\vmware-host\Shared Folders\Documents\New_SDI_projects\Hamilton_Tevin_StringObjects\Hamilton_Tevin_StringObjects\obj\Debug\Hamilton_Tevin_StringObjects.exe
+\\vmware-host\Shared Folders\Documents\New_SDI_projects\Hamilton_Tevin_StringObjects\Hamilton_Tevin_StringObjects\obj\Debug\Hamilton_Tevin_StringObjects.pdb
